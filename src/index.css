@@ -14,3 +14,19 @@ code {
 .cartcolor{
   color: white;
 }
+
+.sameline
+{
+  flexDirection: "row";
+  marginLeft: 20;
+  justifyContent: 'space-evenly';
+  margin-right: 10px;
+}
+
+.list-group-item.active {
+  background-color: #2fd717;
+  border-color: #2fd717;
+}
+.xpad{
+  padding: 20px;
+}

@@ -1,6 +1,6 @@
 import ReactDOM from "react-dom";
 import React from "react";
-import {Cart} from "./Cart";
+import {Cart} from "../src/cartpage/Cart";
 
 ReactDOM.render(
     <React.StrictMode>

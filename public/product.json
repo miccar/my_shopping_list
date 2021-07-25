@@ -1,18 +1,31 @@
 [{
   "id": "milk_1",
-  "title": "Latte 1",
-  "desc": "latte di mucca"
+  "title": "Latte di mucca",
+  "desc": "Descrizione per latte di mucca"
+},{
+  "id": "milk_2",
+  "title": "Latte di capra",
+  "desc": "Descrizione per latte di capra"
 },{
   "id": "pane_1",
-  "title": "Pane 1",
-  "desc": "pane grano duro"
+  "title": "Pane grano duro",
+  "desc": "Descrizione per pane grano duro"
+},{
+  "id": "pane_2",
+  "title": "Pane grano morbido",
+  "desc": "Descrizione per pane grano morbido"
 },
   {
     "id": "mele_1",
-    "title": "Mele 1",
-    "desc": "mele di montagna"
+    "title": "Mele montagna",
+    "desc": "Descrizione per mele di montagna"
   },{
   "id": "dolce1",
-  "title": "Torta di ",
-  "desc": "La torta è bella"
-}]
+  "title": "Torta di cioccolato",
+  "desc": "Descrizione per La torta di cioccolato"
+},
+  {
+    "id": "dolce2",
+    "title": "Crostata di albicocche",
+    "desc": "Descrizione per crostata di albicocche"
+  }]
